@@ -1,0 +1,8 @@
+# Comandos Básicos do Git
+ - Listar (em qual local estamos) **dir** 
+ - Navegar entre pastas **cd**
+ - Retornar na navegação **cd..**
+ - Limpar tela **cls** ou também podemos utlizar **Crtl + L**
+ - Realizar auto completar usamos a tecla **Tab**
+ - Criar pasta **mkdir**
+ - Deletar Arquivo **del** + nome da pasta 
